@@ -87,10 +87,10 @@ h3{
 
 .Homepage {
     /* background-image: url(IMAGES/tback.jpg); */
-    background-color: grey;
+    /* background-color: grey;  */
 }
 
 .Homeimg {
-    width: 1440px;
-    height: 300px;
+    width: 1050px;
+    height: 1500px;
 }
