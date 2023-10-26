@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 427.22 427.22">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ee7b2d;
+        font-family: Poppins-Regular, Poppins;
+        font-size: 84.07px;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #ee7b2d;
+        stroke-miterlimit: 10;
+        stroke-width: 5px;
+      }
+    </style>
+  </defs>
+  <rect class="cls-2" x="2.5" y="2.5" width="422.22" height="422.22"/>
+  <text class="cls-1" transform="translate(24.94 95.63)"><tspan x="0" y="0">Oakham</tspan><tspan x="0" y="100.88">Gold</tspan></text>
+</svg>
