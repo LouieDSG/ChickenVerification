@@ -263,12 +263,12 @@
     .services__container {
         padding-top: 100px;
         padding-bottom: 160px;
-        padding-left: 16px;
+        padding-left: 1px;
     }
 
     .services__grid {
         grid-template-columns: 1fr;
-        grid-template-rows: 2300px;
+        grid-template-rows: 3500px;
     }
 
     .services__container h1 {
