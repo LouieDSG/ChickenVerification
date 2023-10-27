@@ -260,7 +260,7 @@
     
 }
 
-@media screen and (max-width: 468px) {
+@media screen and (max-width: 450px) {
 
     .services__container {
         padding-top: 100px;
@@ -270,7 +270,7 @@
 
     .services__grid {
         grid-template-columns: 1fr;
-        grid-template-rows: 5000px;
+        grid-template-rows: 3000px;
     }
 
     .services__container h1 {
