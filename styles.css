@@ -268,7 +268,7 @@
 
     .services__grid {
         grid-template-columns: 1fr;
-        grid-template-rows: 2000px;
+        grid-template-rows: 500px;
     }
 
     .services__container h1 {
@@ -287,6 +287,14 @@
     .services__content img {
         margin-right: 16px;
     }
+
+/* boxes */
+
+
+
+
+
+
 
     .yellow__bar img {
         margin: 20px;
