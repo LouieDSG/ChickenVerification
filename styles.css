@@ -250,6 +250,7 @@
 @media screen and (max-width: 768px) {
     .services__grid {
         grid-template-columns: 1fr;
+        grid-template-rows: 3000;
     }
 
     .yellow__bar {
@@ -269,7 +270,7 @@
 
     .services__grid {
         grid-template-columns: 1fr;
-        grid-template-rows: 700px;
+        grid-template-rows: 3000px;
     }
 
     .services__container h1 {
