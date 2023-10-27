@@ -268,7 +268,7 @@
 
     .services__grid {
         grid-template-columns: 1fr;
-        grid-template-rows: 1500px;
+        grid-template-rows: 2000px;
     }
 
     .services__container h1 {
