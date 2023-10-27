@@ -183,7 +183,7 @@
 .services__grid {
     display: grid;
     grid-template-columns: 2fr 1fr;
-    grid-template-rows: 1800px;
+    grid-template-rows: 2800px;
 }
 
 .services__container h1 {
@@ -268,7 +268,7 @@
 
     .services__grid {
         grid-template-columns: 1fr;
-        grid-template-rows: 500px;
+        grid-template-rows: 700px;
     }
 
     .services__container h1 {
