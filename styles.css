@@ -270,7 +270,7 @@
 
     .services__grid {
         grid-template-columns: 1fr;
-        grid-template-rows: 3000px;
+        grid-template-rows: 2000px;
     }
 
     .services__container h1 {
