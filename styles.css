@@ -184,7 +184,7 @@
 .services__grid {
     display: grid;
     grid-template-columns: 2fr 1fr;
-    grid-template-rows: 7000px;
+    grid-template-rows: 4000px;
 }
 
 .services__container h1 {
@@ -270,7 +270,7 @@
 
     .services__grid {
         grid-template-columns: 1fr;
-        grid-template-rows: 3000px;
+        grid-template-rows: 5000px;
     }
 
     .services__container h1 {
