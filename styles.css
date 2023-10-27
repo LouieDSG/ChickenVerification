@@ -258,17 +258,17 @@
     
 }
 
-/* @media screen and (max-width: 400px) {
+@media screen and (max-width: 468px) {
 
     .services__container {
         padding-top: 100px;
         padding-bottom: 160px;
-        padding-left: 1px;
+        padding-left: 16px;
     }
 
     .services__grid {
         grid-template-columns: 1fr;
-        grid-template-rows: 5000px;
+        grid-template-rows: 700px;
     }
 
     .services__container h1 {
@@ -286,7 +286,7 @@
 
     .services__content img {
         margin-right: 16px;
-    } */
+    }
 
 /* boxes */
 
